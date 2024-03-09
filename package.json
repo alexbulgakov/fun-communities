@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.2.1",
+    "@vkontakte/icons": "^2.101.0",
     "@vkontakte/vkui": "^6.0.1",
+    "plural-ru": "^2.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "vite": "^5.1.4"

@@ -1,4 +1,6 @@
-const fetchGroups = () => new Promise((resolve, reject) => {
+import { GroupType } from '../types/types.ts';
+
+const fetchGroups = (): Promise<GroupType[]> => new Promise((resolve, reject) => {
   setTimeout(() => {
     import('../mocks/groups.json')
       .then((data) => {
