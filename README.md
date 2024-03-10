@@ -8,6 +8,7 @@ In this task, you need to implement a simple React application consisting of a s
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
+  - [How to install](#how-to-install)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
@@ -30,6 +31,20 @@ Users should be able to:
 
 - Solution URL: [github.com/alexbulgakov/fun-communities](https://github.com/alexbulgakov/fun-communities)
 - Live Site URL: [fun-communities.vercel.app/](https://fun-communities.vercel.app/)
+
+### How to install
+
+For local installation, you need to run the following command in the terminal of the project directory:
+
+```bash
+npm install
+```
+
+To start in development mode, you need to run the command:
+
+```bash
+npm run dev
+```
 
 ## My process
 
